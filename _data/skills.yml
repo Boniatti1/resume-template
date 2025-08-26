@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Desenvolvimento Backend
+- skill: Desenvolvimento Backend
+  description: Experiência com Python (Flask, Playwright, Pandas, Scikit-Learn) e C# (ASP .NET).
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Desenvolvimento Frontend
+- skill: Desenvolvimento Frontend
+  description: Conhecimentos em HTML, CSS e JavaScript, e experiência com Dart (Flutter) para desenvolvimento mobile.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Bancos de Dados
+- skill: Bancos de Dados
+  description: Experiência em modelagem e consultas utilizando PostgreSQL e SQLite.
+
+# Infraestrutura & DevOps
+- skill: Infraestrutura e DevOps
+  description: Experiência com Docker, Nginx e Fail2ban, configuração de servidores e práticas de segurança.
+
+# Habilidades Científicas e Analíticas
+- skill: Habilidades Científicas e Analíticas
+  description: Participação em olimpíadas de física, química e matemática, bem como em iniciações científicas, reforçando minha capacidade de pensamento lógico, aprendizado autônomo e resolução de problemas.

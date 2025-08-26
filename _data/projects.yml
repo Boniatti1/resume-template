@@ -1,16 +1,43 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Biblioconnect
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://biblioconnect.boniatti.dev"
+  description: Projeto fullstack com backend em ASP.NET e frontend em HTML, CSS e JavaScript, com comunicação via API REST. A plataforma permite que usuários solicitem cadastro e empréstimos de livros, enquanto bibliotecários gerenciam o acervo, aprovam cadastros e registram empréstimos e devoluções.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+- project: Primislayer
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://primislayer.carrd.co"
+  description: Sistema de segurança apresentado ao Programa Talento Tech 2024 – Projeto Integrador. Utiliza NGINX, NAXSI e Fail2ban para proteger uma aplicação web contra ameaças. O projeto inclui um painel de administração em Flask para monitoramento, autenticação com mTLS, alertas via Telegram e foi totalmente containerizado com Docker.
+
+
+- project: Vinhos Amazon
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://vinhos-amazon.boniatti.dev"
+  description: O projeto consiste em um website para verificar o histórico de preços de vinhos na Amazon. A base de dados é alimentada diariamente por meio de um scraper, utilizando Playwright e BeautifulSoup.
+
+
+- project: Análise de Dados (Pandas + Scikit Learn)
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://github.com/Boniatti1/Talento-Tech-13"
+  description: Projeto apresentado ao Talento Tech, no Módulo 13. A primeira parte consiste na implementação de um modelo para predição do preço de um veículo com base em suas características. A segunda parte consiste na implantação de um modelo para predição da condição de fechamento do bitcoin.
+
+
+- project: Encurta.top
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://encurta.top"
+  description: Encurtador de links serverless com Cloudflare Workers + KV Storage (JavaScript).
+
+
+- project: Fácil CNPJ
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://facilcnpj.com.br"
+  description: Gerador de CNPJs válidos no novo formato. 100% client-side com JavaScript.

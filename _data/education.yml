@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bacharelado em Sistemas de Informação
+  uni: Universidade Tecnológica Federal do Paraná
+  year: 2025 &mdash; Atualmente
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Programa Talento Tech - TIC
+  uni: Universidade Estadual de Ponta Grossa
+  year: 2024 &mdash; 2025
+  # award: Most likely to succeed
+  summary: O Talento Tech é um programa do Governo do Paraná que oferece cursos gratuitos e bolsas para estudantes do ensino médio e superior, com foco em capacitação em Tecnologia da Informação e Comunicação (TIC), visando formar profissionais para o mercado e impulsionar o desenvolvimento regional.
