@@ -15,6 +15,10 @@
 - skill: Infraestrutura e DevOps
   description: Experiência com Docker, Nginx e Fail2ban, configuração de servidores e práticas de segurança.
 
+# Sistemas Operacionais & Redes
+- skill: Sistemas Operacionais e Redes
+  description: Conhecimentos em Windows, Linux, TCP/IP, DNS, SSH, montagem e manutenção de computadores.
+
 # Habilidades Científicas e Analíticas
 - skill: Habilidades Científicas e Analíticas
   description: Participação em olimpíadas de física, química e matemática, bem como em iniciações científicas, reforçando minha capacidade de pensamento lógico, aprendizado autônomo e resolução de problemas.
