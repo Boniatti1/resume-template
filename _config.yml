@@ -23,8 +23,7 @@ resume_contact_address:         "Londrina - PR"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Sou desenvolvedor fullstack com ênfase em backend. Tenho conhecimento em tecnologias como Python, Javascript, HTML, CSS, C#, Dart, Git, Docker, SQL... \nAtualmente, estou cursando Sistemas de Informação e estou buscando oporturnidades para expandir minhas habilidades.</p>"
-
+resume_header_intro: <p>Sou estudante de Sistemas de Informação com interesse em suporte técnico e infraestrutura. Tenho experiência prática em projetos envolvendo Python, Docker, Nginx, Linux, Git e SQL, além de conhecimentos em desenvolvimento web e administração básica de servidores. Atualmente, busco oportunidades para desenvolver minhas habilidades e adquirir experiência profissional na área de TI.</p>
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
