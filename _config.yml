@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Leonardo Boniatti da Luz Silva"
-resume_title:                   "Desenvolvedor Fullstack/Backend"
+resume_title:                   "Infraestrutura / Suporte Técnico"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "leonardo.boniattisilva@gmail.com"
