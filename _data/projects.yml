@@ -29,15 +29,15 @@
   description: Projeto apresentado ao Talento Tech, no Módulo 13. A primeira parte consiste na implementação de um modelo para predição do preço de um veículo com base em suas características. A segunda parte consiste na implantação de um modelo para predição da condição de fechamento do bitcoin.
 
 
-- project: Encurta.top
+- project: Encurtador de links
   # role: Founder & Primary Developer
   # duration: 2012 &mdash; Present
-  url: "https://encurta.top"
+  url: "https://encurtador.boniatti.dev"
   description: Encurtador de links serverless com Cloudflare Workers + KV Storage (JavaScript).
 
 
 - project: Fácil CNPJ
   # role: Founder & Primary Developer
   # duration: 2012 &mdash; Present
-  url: "https://facilcnpj.com.br"
+  url: "https://facilcnpj.boniatti.dev"
   description: Gerador de CNPJs válidos no novo formato. 100% client-side com JavaScript.
